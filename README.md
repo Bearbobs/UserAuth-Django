@@ -7,7 +7,7 @@ backend is a _short description_. It is built with [Python][0] using the [Django
 
 This project has the following apps:
 
-* api (main api app)
+* accounts (main user authentication app)
 
 
 ## Requirements
