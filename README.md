@@ -32,10 +32,11 @@ _Runs default on port 8000
 
 Default User for Testing:-
 
-Username: "anuj" Password: "1234"
+* Username: "anuj" Password: "1234"
 
-Username: "serendeepia" Password: "1234"
+* Username: "serendeepia" Password: "1234"
 
+## Note: 
 Users Can Be added by : python manage.py createsuperuser or by admin panel.
 
 [0]: https://www.python.org/
