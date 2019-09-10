@@ -9,6 +9,8 @@ This project has the following apps:
 
 * accounts (main user authentication app)
 
+it uses authentication library of django and django restframework for handeling permissions.
+
 
 ## Requirements
 
