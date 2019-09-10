@@ -3,9 +3,10 @@ from django.urls import path, include
 from django.views.generic.base import TemplateView
 from rest_framework import routers
 from accounts.views import hello
-
+#Rest Framework router for Hello Api
 router_search = routers.DefaultRouter()
 router_search.register(r'api', hello,base_name='base')
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('accounts/', include('accounts.urls')),
