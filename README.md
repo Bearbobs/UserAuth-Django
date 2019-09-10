@@ -39,7 +39,8 @@ Default User for Testing:-
 * Username: "serendeepia" Password: "1234"
 
 =>Note: 
-Users Can Be added by : python manage.py createsuperuser or by admin panel.
+
+Users Can Be added by- "python manage.py createsuperuser" or by Dajngo Admin Panel.
 
 ## Basic Usage:
 
@@ -49,13 +50,13 @@ It redirects to the Home page when user login credentials are correct.
 
 http://127.0.0.1:8000/admin/
 
-users can be added or removed from admin pannel as well.
+Users can be added or removed from admin pannel as well.
 
 ## Api Usage:
  
  http://127.0.0.1:8000/api/?token=AuthToken
  
- It gives the response only when the user has a current active session , else it redirects to django-restframeworks "Access Denied" page.
+ It gives response only when the user has a current active session , else it redirects to django-restframeworks "Access Denied" page.
 
 [0]: https://www.python.org/
 [1]: https://www.djangoproject.com/
