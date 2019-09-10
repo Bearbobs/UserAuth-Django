@@ -20,3 +20,10 @@ python3 manage.py runserver
 ```
 
 _Runs default on port 8000
+
+Default User for Testing:-
+
+Username: anuj Password: 1234
+Username: serendeepia Password: 1234
+
+Users Can Be added by : python manage.py createsuperuser or by admin panel.
