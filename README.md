@@ -1,4 +1,4 @@
-# userauth-django
+# UserAuth-Django
 Basic user authentication using django
 
 ## Requirements
