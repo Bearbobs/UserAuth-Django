@@ -2,6 +2,7 @@
     "_meta": {
         "hash": {
             "sha256": "fef82e2fbf34a401cf76b41f41e85089d7a045da267614cd5d376b5d9255cc98"
+
         },
         "pipfile-spec": 6,
         "requires": {
@@ -30,6 +31,7 @@
                 "sha256:c894d57500a4cd2d5c71114aaab77dbab5eabd9022308ce5ac9bb93a60a6f0c7"
             ],
             "version": "==2019.2"
+
         }
     },
     "develop": {
@@ -39,6 +41,7 @@
                 "sha256:b65db1bbaac9f9f4d190199bb8680af6f6f84fd3769a5ea883df8a91fe68b4c4"
             ],
             "version": "==2.2.5"
+
         },
         "autopep8": {
             "hashes": [
@@ -76,6 +79,7 @@
                 "sha256:fd135b8d35dfdcdb984828c84d695937e58cc5f49e1c854eb311c4d6aa03f4f1"
             ],
             "version": "==1.4.2"
+
         },
         "mccabe": {
             "hashes": [
@@ -101,6 +105,7 @@
         },
         "six": {
             "hashes": [
+
                 "sha256:3350809f0555b11f552448330d0b52d5f24c91a322ea4a15ef22629740f3761c",
                 "sha256:d16a0141ec1a18405cd4ce8b4613101da75da0e9a7aec5bdd4fa804d0e0eba73"
             ],
