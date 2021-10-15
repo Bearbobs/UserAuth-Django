@@ -1,4 +1,4 @@
 Django==2.1.8
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 django-request==1.5.4
 lazy-object-proxy==1.4.1
